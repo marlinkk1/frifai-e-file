@@ -1,0 +1,7 @@
+nome =str(input("o seu desocupado me fala seu nome?: "))
+print("",nome,"credo nome feio")
+print("troca esse nome que eu pago a mudança")
+str(input("{}, agora que eu sei seu primeiro nome me fala seu CPF e conta bancaria:" .format(nome)))
+print("serio que você achou que eu queria? nao to pasando fome nao")
+nome2 =str(input("{}, agora me fala seu sobrenome" .format(nome)))
+print("meu deus",nome, nome2, "que nome feio, obrogado por me traumatizar")
