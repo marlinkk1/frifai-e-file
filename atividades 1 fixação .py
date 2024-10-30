@@ -8,4 +8,4 @@ else:
     alt=="nao"
     print("entao vc e cabra macho")
     n2=72.7*altura-58
-    print("seu peso ideal e",n2) 
+    print("seu peso ideal é: ",n2) 
